@@ -4,5 +4,8 @@ node_modules/
 # Ignore environment variables file
 .env
 
+# Ignore package-lock.json
+package-lock.json
+
 # Ignore dist directory
 dist/*
