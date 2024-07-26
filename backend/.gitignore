@@ -1,3 +1,8 @@
-node_modules
-# Keep environment variables out of version control
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variables file
 .env
+
+# Ignore dist directory
+dist/*
